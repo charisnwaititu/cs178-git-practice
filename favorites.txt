@@ -3,3 +3,5 @@ Name: Charis
 My favorite color is: pink
 
 My favorite animal is: cat/dog
+
+My favorite movie is: "Tangled"
